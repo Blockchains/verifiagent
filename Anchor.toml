@@ -6,13 +6,13 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-verifiagent = "G6cYQD4sC5aoVipQveiSrB3ccrocmjoz1f7P83nS2RVP"
+verifiagent = "SZcUAsZ6Rc3f5BAfsbR2CskudsGL5Y6kzQTsgQCaSuZ"
 
 [programs.devnet]
-verifiagent = "G6cYQD4sC5aoVipQveiSrB3ccrocmjoz1f7P83nS2RVP"
+verifiagent = "SZcUAsZ6Rc3f5BAfsbR2CskudsGL5Y6kzQTsgQCaSuZ"
 
 [programs.mainnet]
-verifiagent = "G6cYQD4sC5aoVipQveiSrB3ccrocmjoz1f7P83nS2RVP"
+verifiagent = "SZcUAsZ6Rc3f5BAfsbR2CskudsGL5Y6kzQTsgQCaSuZ"
 
 [registry]
 url = "https://api.apr.dev"
